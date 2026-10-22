@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+<meta name="description" content="{{ site.description | escape }}">
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+<a class="skip" href="#content">Skip to content</a>
+<header><div class="wrap masthead"><a class="brand" href="{{ '/' | relative_url }}">Colton D. Meinecke<span>FOREST HEALTH RESEARCH</span></a>
+<nav aria-label="Main navigation">{% assign links = 'Home,index.html;Research,research.html;Publications,publications.html;Teaching & Outreach,teaching.html;CV & Contact,cv.html' | split: ';' %}{% for link in links %}{% assign item = link | split: ',' %}<a href="{{ item[1] | prepend: '/' | relative_url }}" {% if page.title == item[0] %}aria-current="page"{% endif %}>{{ item[0] }}</a>{% endfor %}</nav></div></header>
+<main id="content" class="wrap">{{ content }}</main>
+<footer class="wrap"><p>Colton D. Meinecke · Athens, Georgia<br><a href="mailto:{{ site.email }}">{{ site.email }}</a></p><p>Forest pathology · Molecular diagnostics · Fungal genomics</p></footer>
+</body></html>

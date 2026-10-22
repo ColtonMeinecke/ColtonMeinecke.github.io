@@ -1,0 +1,9 @@
+title: Colton D. Meinecke
+description: Forest pathology, molecular diagnostics, and fungal genomics.
+email: colton.meinecke@uga.edu
+baseurl: ""
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
