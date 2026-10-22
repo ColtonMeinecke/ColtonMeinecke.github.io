@@ -3,10 +3,6 @@ layout: default
 title: Publications
 ---
 
-# Publications
-
-Publication details and manuscript statuses reflect the supplied CV (October 2026).
-
 ## Published articles and research publications
 
 - Izquierdo-Suzán, M., Sierra-Durán, C., Perea, S., **Meinecke, C.D.**, and Medellín, R.A. 2026. Pests for dinner: Dietary composition of insectivorous bats in a fragmented Tropical Dry Forest. Biotropica 58(2):e70177. [https://doi.org/10.1111/btp.70177](https://doi.org/10.1111/btp.70177)
@@ -35,19 +31,11 @@ Publication details and manuscript statuses reflect the supplied CV (October 202
 
 - **Meinecke C.D.**, Loyd A., Eshleman R., Gomez D., Chahal K., Ony M., Sakalidis M., Hadziabdic D., Villari C. 2026. Rapid detection of the oak wilt pathogen (*Bretziella fagacearum*) using loop-mediated isothermal amplification (LAMP). *In press, *Applied and Environmental Microbiology
 
-## In preparation
-
-- **Meinecke C.D.**, Lim-Hing S., Raley F., Mesa M., Baltunis B., Cumbie W.P., Purnell R., Villari C. 2026. Accelerating phenotyping for brown spot needle blight resistance in loblolly pine (*Pinus taeda*) using near-infrared vibrational spectroscopy. *In prep, to be submitted to Plant Phenomics*
-
 ## Extension publications and technical reports
-
-- **Meinecke C.D.**, Lim-Hing S., Raley F., Mesa M., Baltunis B., Cumbie W.P., Purnell R., Villari C. 2026. Accelerating phenotyping for brown spot needle blight resistance in loblolly pine (*Pinus taeda*) using near-infrared vibrational spectroscopy. The Southern Pine Health Research Cooperative (SPHRC), Warnell School of Forestry and Natural Resources, University of Georgia. SPHRC Technical Report #7-2026.
 
 - **Meinecke C.D.**, Villari C., and McCarty E. 2024. Brown spot needle blight infographic. University of Georgia. Warnell School of Forestry and Natural Resources Outreach Publication. WSFNR-24-26a. 1 page.
 
 - **Meinecke C.D.**, Eshleman R.A., Villari C., and McCarty E. 2024. Brown spot needle blight and other needlecasts: emerging diseases of loblolly pine. University of Georgia Warnell School of Forestry and Natural Resources and the Georgia Forestry Commission Outreach Publication. WSFNR-24-25a. 8 pages.
-
-- **Meinecke C.D.**, McCarty E., and Villari C. 2022. A next-generation survey of fungi associated with needle disease outbreaks on loblolly pine (*Pinus taeda*) in the southeastern United States. The Southern Pine Health Research Cooperative (SPHRC), Warnell School of Forestry and Natural Resources, University of Georgia. SPHRC Technical Report #2-2022.
 
 - **Meinecke C.D.**, McCarty E., Quesada T., Smith J., and Villari C.. 2022. Pitch canker: A fungal disease of southern pine forests. University of Georgia Warnell School of Forestry and Natural Resources Outreach Publication, WSFNR-22-62a. 6 Pages.
 
