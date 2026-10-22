@@ -23,7 +23,7 @@ title: Publications
 
 - Aglietti C., **Meinecke C.D.**, van der Nest A., Ghelardini L., Barnes I., Villari C. 2021. Rapid detection of pine pathogens *Lecanosticta acicola*, *Dothistroma pini* and *D. septosporum* on needles by probe-based LAMP assays. Forests, 12(4), 479; [https://doi.org/10.3390/f12040479](https://doi.org/10.3390/f12040479)
 
-## In press
+## In press, coming soon!
 
 - Klement D., **Meinecke C.D.**, Villari C., Rushing C. 2026. Trophic relationships at a restoration reference site identify key plant resources for a declining songbird. *In press, Restoration Ecology*
 
