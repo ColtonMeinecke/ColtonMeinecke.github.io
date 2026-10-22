@@ -29,7 +29,7 @@ title: Publications
 
 - Nowicki M., Boggess S.L., Avin F.A., Baysal-Gurel F., Bonkowski J.C., Cubeta M.A., Huff M.L., Junaid M., Kilbourne K., McVay J., **Meinecke C.D.**, Shoemaker D.D., Staton M.E., Trigiano R.N., Turner J.H., Villari C., Williams-Woodward J., Hadziabdic D. 2026. From genomics to diagnostics: combating the spread of vascular streak dieback in North America. *In press, Molecular Microbiology*
 
-- **Meinecke C.D.**, Loyd A., Eshleman R., Gomez D., Chahal K., Ony M., Sakalidis M., Hadziabdic D., Villari C. 2026. Rapid detection of the oak wilt pathogen (*Bretziella fagacearum*) using loop-mediated isothermal amplification (LAMP). *In press, *Applied and Environmental Microbiology
+- **Meinecke C.D.**, Loyd A., Eshleman R., Gomez D., Chahal K., Ony M., Sakalidis M., Hadziabdic D., Villari C. 2026. Rapid detection of the oak wilt pathogen (*Bretziella fagacearum*) using loop-mediated isothermal amplification (LAMP). *In press, Applied and Environmental Microbiology*
 
 ## Extension publications and technical reports
 
