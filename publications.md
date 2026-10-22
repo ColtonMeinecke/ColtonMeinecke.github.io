@@ -17,7 +17,7 @@ title: Publications
 
 - Perea S., **Meinecke C.D.**, Larsen-Gray A., Gandhi K.J.K., Greene D.U., Villari C, Castleberry S. 2024. Winter diet of bats in working forests of the southeastern U.S. Coastal Plain. Scientific Reports, 14:12778; [https://doi.org/10.1038/s41598-024-63062-3](https://doi.org/10.1038/s41598-024-63062-3)
 
-- Grabarczyk E.E., Querejeta M., Tillman P.G., Wallace R.D., Barnes B.,** Meinecke C.D.**, Villari C., Gandhi K.J.K., LaForest J., Elliott M., Schmidt J.M. 2023. Molecular analysis of three material types to reveal biodiversity of Joro spider (*Trichonephila clavata*) trophic interactions and web contents.* *Frontiers in Ecology and Evolution, 11; [https://doi.org/10.3389/fevo.2023.1177446](https://doi.org/10.3389/fevo.2023.1177446)
+- Grabarczyk E.E., Querejeta M., Tillman P.G., Wallace R.D., Barnes B., **Meinecke C.D.**, Villari C., Gandhi K.J.K., LaForest J., Elliott M., Schmidt J.M. 2023. Molecular analysis of three material types to reveal biodiversity of Joro spider (*Trichonephila clavata*) trophic interactions and web contents. Frontiers in Ecology and Evolution, 11; [https://doi.org/10.3389/fevo.2023.1177446](https://doi.org/10.3389/fevo.2023.1177446)
 
 - **Meinecke C.D.**, De Vos L., Yilmaz N., Steenkamp E.T., Wingfield M.J., Wingfield B.D., Villari C. 2023. A LAMP assay for rapid detection of the pitch canker pathogen *Fusarium circinatum*. Plant Disease, 107(10):2916-2923; [https://doi.org/10.1094/PDIS-04-22-0972-SR](https://doi.org/10.1094/PDIS-04-22-0972-SR)
 
