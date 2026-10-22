@@ -7,10 +7,10 @@ title: CV & Contact
 
 ## Current role
 
-**Research Associate**, University of Georgia (2026–present)  
-Research management, mentoring, and research contributions in the Villari forest pathology laboratory and Southern Pine Health Research Cooperative.
+**Research Associate**, University of Georgia (2021–present)  
+Research design and execution, management, and mentoring in the Villari forest pathology laboratory and Southern Pine Health Research Cooperative.
 
-**Doctoral student, Forestry Biology**, University of Georgia (2023–present)  
+**Doctoral student, Forest Biology**, University of Georgia (2023–present)  
 Advised by Caterina Villari and Jeremy T. Brawner.
 
 ## Education
@@ -21,7 +21,6 @@ Advised by Caterina Villari and Jeremy T. Brawner.
 
 ## Previous professional experience
 
-- **Research Professional**, University of Georgia, 2021–2025. Laboratory management and research coordination.
 - **Microbiologist**, West Virginia Office of Laboratory Services, 2017–2019. Diagnostic immunology, enteric bacteriology, and molecular subtyping.
 - **Plant Pest and Disease Specialist**, Wisconsin Department of Natural Resources, 2016–2017. Forest health diagnostics and laboratory management.
 
