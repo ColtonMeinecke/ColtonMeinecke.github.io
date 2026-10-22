@@ -7,7 +7,7 @@ title: Home
 <p class="eyebrow">FOREST PATHOLOGY · FUNGAL GENOMICS · MOLECULAR ECOLOGY</p>
 <h1>Understanding forest diseases.<br>Developing tools for healthier forests.</h1>
 <p class="intro">I’m Colton Meinecke, a forest pathology researcher connecting field observations, molecular biology, and genomics to understand tree diseases and improve their detection and management.</p>
-<p>I am a Research Associate and doctoral student at the University of Georgia’s Warnell School of Forestry and Natural Resources, where I support to the Southern Pine Health Research Cooperative.</p>
+<p>I am a Research Associate and doctoral student at the University of Georgia’s Warnell School of Forestry and Natural Resources, where I support to the Southern Pine Health Research Cooperative and other interdisciplinary collaborations.</p>
 <div class="buttons"><a class="button" href="{{ '/research.html' | relative_url }}">Check out my research</a><a class="button" href="{{ '/publications.html' | relative_url }}">Read my publications</a></div>
 </section>
 
